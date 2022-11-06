@@ -14,7 +14,9 @@
 
 ### Step4
 
-【未完成】最小NCF
+最小NCF提交
+
+https://github.com/OpathonGame2022/GROUP1/commit/77e6d59d379fbed406126943e32d7d069d73aaf1
 
 ### 获取服务器
 
