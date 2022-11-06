@@ -1,0 +1,5 @@
+[2022/11/6 8:39:52 +08:00]	IP: 52.184.83.145:3389
+UserName: Opathon2022-Group1
+PWD(Base64ed): c0RoYzc2VEdzOEpk
+OS:Windows Server 2022
+
