@@ -7525,6 +7525,7 @@
       "Senparc.CO2NET >= 2.0.1",
       "Senparc.CO2NET.AspNet >= 1.0.2",
       "Senparc.Ncf.Core >= 0.11.3-beta7",
+      "Senparc.Ncf.Database.MySql >= 0.11.3-beta7",
       "Senparc.Ncf.Database.PostgreSQL >= 0.4.3-beta7",
       "Senparc.Ncf.Database.SqlServer >= 0.11.3-beta7",
       "Senparc.Xncf.ChangeNamespace >= 0.12.3-beta7",
@@ -7632,6 +7633,10 @@
             "version": "[1.0.2, )"
           },
           "Senparc.Ncf.Core": {
+            "target": "Package",
+            "version": "[0.11.3-beta7, )"
+          },
+          "Senparc.Ncf.Database.MySql": {
             "target": "Package",
             "version": "[0.11.3-beta7, )"
           },

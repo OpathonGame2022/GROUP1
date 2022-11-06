@@ -1,9 +1,9 @@
 ﻿//以下数据库模块的命名空间根据需要添加或删除
-//using Senparc.Ncf.Database.MySql;         //使用需要引用包： Senparc.Ncf.Database.MySql
+using Senparc.Ncf.Database.MySql;         //使用需要引用包： Senparc.Ncf.Database.MySql
 //using Senparc.Ncf.Database.Sqlite;        //使用需要引用包： Senparc.Ncf.Database.Sqlite
 //using Senparc.Ncf.Database.PostgreSQL;    //使用需要引用包： Senparc.Ncf.Database.PostgreSQL
 //using Senparc.Ncf.Database.Oracle;          //使用需要引用包： Senparc.Ncf.Database.Oracle
-using Senparc.Ncf.Database.SqlServer;       //使用需要引用包： Senparc.Ncf.Database.SqlServer
+// using Senparc.Ncf.Database.SqlServer;       //使用需要引用包： Senparc.Ncf.Database.SqlServer
 
 using Microsoft.Extensions.DependencyInjection;
 
