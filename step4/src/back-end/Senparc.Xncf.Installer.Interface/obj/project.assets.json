@@ -1,0 +1,82 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0": {
+      "Senparc.Xncf.Tenant.Interface/0.1.2-beta8": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "Senparc.Xncf.Tenant.Interface/0.1.2-beta8": {
+      "sha512": "7T3e1fv+3uA9za5gX0LGCVFYtS/vyBBslQzP7BJmdFThSVdijChiSuNCnj3y4YsnBKkkPram9vuUgcSDglmU6g==",
+      "type": "package",
+      "path": "senparc.xncf.tenant.interface/0.1.2-beta8",
+      "files": [
+        ".signature.p7s",
+        "lib/netstandard2.1/Senparc.Xncf.Tenant.Interface.dll",
+        "senparc.xncf.tenant.interface.0.1.2-beta8.nupkg.sha512",
+        "senparc.xncf.tenant.interface.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0": [
+      "Senparc.Xncf.Tenant.Interface >= 0.1.2-beta8"
+    ]
+  },
+  "packageFolders": {
+    "/Users/xialiwei/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "0.1.0",
+    "restore": {
+      "projectUniqueName": "/Users/xialiwei/Sites/hotpoor/GROUP1/step4/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj",
+      "projectName": "Senparc.Xncf.Installer.Interface",
+      "projectPath": "/Users/xialiwei/Sites/hotpoor/GROUP1/step4/src/back-end/Senparc.Xncf.Installer.Interface/Senparc.Xncf.Installer.Interface.csproj",
+      "packagesPath": "/Users/xialiwei/.nuget/packages/",
+      "outputPath": "/Users/xialiwei/Sites/hotpoor/GROUP1/step4/src/back-end/Senparc.Xncf.Installer.Interface/obj",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/xialiwei/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net60"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net60": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net60": {
+        "dependencies": {
+          "Senparc.Xncf.Tenant.Interface": {
+            "target": "Package",
+            "version": "[0.1.2-beta8, )"
+          }
+        }
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Senparc.Xncf.Tenant.Interface 0.1.2-beta8 is not compatible with net60 (.NETFramework,Version=v6.0). Package Senparc.Xncf.Tenant.Interface 0.1.2-beta8 supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "Senparc.Xncf.Tenant.Interface",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    }
+  ]
+}

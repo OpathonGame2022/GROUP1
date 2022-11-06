@@ -1,0 +1,10 @@
+[2022/11/6 11:34:26 +08:00]	
+AES
+Key: Opathon2022-Group1
+IV: 111111aabbccwwww
+Encoded Data: Gw/nFRnw85c0/n4WlEv1nUspG1BRUC3Q2q3rhCpm0yewIf3xwGWt0z7XfK9T9XHF
+
+You have to create a WebAPI to decode Encoded Data, and create a page in WeChat MiniProgram to let users to input other Encoded Data to get the result.
+
+Good luck!
+

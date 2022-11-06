@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">False</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">/Users/xialiwei/Sites/hotpoor/GROUP1/step4/src/back-end/Senparc.Web.DatabasePlant/obj/project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/xialiwei/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/xialiwei/.nuget/packages/</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.8.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design/6.0.0/build/net6.0/Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design/6.0.0/build/net6.0/Microsoft.EntityFrameworkCore.Design.props')" />
+    <Import Project="$(NuGetPackageRoot)senparc.xncf.swagger/0.6.3-beta7/build/Senparc.Xncf.Swagger.props" Condition="Exists('$(NuGetPackageRoot)senparc.xncf.swagger/0.6.3-beta7/build/Senparc.Xncf.Swagger.props')" />
+  </ImportGroup>
+</Project>

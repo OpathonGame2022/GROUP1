@@ -24,6 +24,7 @@ https://github.com/OpathonGame2022/GROUP1/commit/77e6d59d379fbed406126943e32d7d0
 
 ### Step5
 
+【未完成】python解出题目
 【未完成】在结束时间后的一周内，获得了服务器地址，但是服务器好像关掉了，无法完成任务。
 
 ### Step6
